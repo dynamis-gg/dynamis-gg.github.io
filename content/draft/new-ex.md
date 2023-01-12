@@ -221,9 +221,10 @@ So in order to survive the mechanic, the party must split into two separate stac
 Starting with Extreme trials, bosses will begin to output unavoidable damage at a rate that genuinely threatens the party.
 The damage is often high enough that healers will struggle to keep up.
 This is especially true if the healers have to spend time and mana resurrecting other players, or if players have taken vuln stacks from mistakes.
-Ranged DPS, in particular, are squishy and vulnerable to dying to unavoidable damage.
-To ease burden on the healers and cover for mistakes, all players must contribute by eating appropriate [food] and mitigating icoming damage.
+Ranged DPS are particularly squishy and vulnerable to dying to unavoidable damage,
+especially magic damage for ranged physical and physical damage for casters.
 
+To ease burden on the healers and help cover for mistakes, all players must contribute by eating appropriate [food] and mitigating icoming damage.
 All non-healer jobs have at least one action that mitigates damage to the party:
 
 *  Tanks have Reprisal, which inflicts a debuff on nearby enemies reducing their damage by 10%.
@@ -273,7 +274,7 @@ The off-tank must take aggro so that they are hit by the follow-up instead of th
 Involuntary tank swaps will also occur if the main tank dies.
 
 The off-tank should take aggro by using Provoke and by ensuring they have their tank stance on.
-The correct time to Provoke is almost always during the cast bar of the tankbuster, before the first hit.
+The correct time to Provoke is usually during the cast bar of the tankbuster, before the first hit.
 The main tank must ensure that they do not steal aggro back accidentally as well.
 Therefore, the main tank must either drop their tank stance or use Shirk to pass additional aggro to the off-tank.
 Using a tank's ranged attack for the extra aggro is a last resort.
