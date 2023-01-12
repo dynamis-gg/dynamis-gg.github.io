@@ -4,6 +4,12 @@ weight = 5
 +++
 # EX5: Rubicante
 
+*Contributors*:
+B'uzhi Amaroh @ Maduin,
+Yuno Kashiki @ Seraph,
+Tvnariea Reksane @ Seraph,
+Torenimo Mox @ Maduin.
+
 ## Macro v1.0
 
 ![](macro.png)
@@ -34,7 +40,7 @@ The strats we follow are the same as the strat's in Hector's guide with three ch
 2. We use standard clock spots rather than putting the OT east. The alternate arrangement is only used for the crossover Sweeping Immolation strat.
 3. We use a fixed position system for Sweeping Immolation, as described by Hector at 14:38 in his video, rather than the crossover strat.
 
-{{ youtube(id="1_v6v2nmVJ0") }}
+{{ youtube(id="1_v6v2nmVJ0" }}
 
 These strats are also the same as used on [Elemental DC](https://tuufless.github.io/FFXIV-Elemental-Raid-Macros/6.0_endwalker/extreme_trials/rubicante/) with the exception of the Flamerake strat.
 
