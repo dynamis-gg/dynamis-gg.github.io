@@ -4,11 +4,12 @@ weight = 5
 +++
 # EX5: Rubicante
 
-*Contributors*:
-B'uzhi Amaroh @ Maduin,
-Yuno Kashiki @ Seraph,
-Tvnariea Reksane @ Seraph,
-Torenimo Mox @ Maduin.
+*Contributors:
+B'uzhi Amaroh@Maduin,
+Space Invader@Seraph,
+Yuno Kashiki@Seraph,
+Torenimo Mox@Maduin,
+Tvnariea Reksane@Seraph.*
 
 ## Macro v1.0
 
