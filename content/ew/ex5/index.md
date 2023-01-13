@@ -4,6 +4,9 @@ weight = 5
 +++
 # EX5: Rubicante
 
+[**Discuss on
+Discord**](https://discord.com/channels/1037850893468569690/1049864902220730449)
+
 *Contributors:
 B'uzhi Amaroh@Maduin,
 Space Invader@Seraph,
