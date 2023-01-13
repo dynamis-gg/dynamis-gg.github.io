@@ -4,28 +4,28 @@ weight = 5
 +++
 # EX5: Rubicante
 
-*Contributors*:
-B'uzhi Amaroh @ Maduin,
-Yuno Kashiki @ Seraph,
-Tvnariea Reksane @ Seraph,
-Torenimo Mox @ Maduin.
+*Contributors:
+B'uzhi Amaroh@Maduin,
+Space Invader@Seraph,
+Yuno Kashiki@Seraph,
+Torenimo Mox@Maduin,
+Tvnariea Reksane@Seraph.*
 
 ## Macro v1.0
 
 ![](macro.png)
 
 ```
-/p ═RUBICANTE EX v1.0: dynamis.gg/ew/ex5═
+/p ┏═RUBICANTE EX v1.0: dynamis.gg/ew/ex5═┓
 /p ┏【Spread】┓┏━【Arch Inferno】━┓
 /p     R1   MT   R2      MT+*1 → N   OT+*2 → S
-/p     H1   ★    H2      Pairs &        (T  M)
-/p     M1  OT  M2      Spreads:    (H  R)
+/p     H1   ★    OT      Pairs &        (T  M)
+/p     M1  H2  M2      Spreads:    (H  R)
 /p ┣【Adds/Dualfire】MT → NW, OT → NE
-/p ┣【Flamerake】        Flares → Stay on your colour
-/p ┏━━━【Sweeping Immolation】━━━┓
-/p     →    ↑      ↑    ←    ※ Spread colour pairs
-/p    MT  M1  M2  OT         T+M in, H+R out
-/p    R1   H1   H2   R2   ※ Stack at M1
+/p ┣【Flamerake】        Flares → Stay on colour
+/p ┏━━【Sweeping Immolation】━━┓
+/p     Adjust CW → cross over if in cleave
+/p     T+M in, H+R out
 /p ┏━━━【Flamespire Claw】━━━┓
 /p    Odd # → SW, Even # → SE
 /p    7/8 start with tethers
@@ -34,23 +34,22 @@ Torenimo Mox @ Maduin.
 
 ## Resources
 
-The strats we follow are the same as the strat's in Hector's guide with three changes:
-
-1. We place the #1 marker in the NE corner, per [DESU conventions](/conventions#markers).
-2. We use standard clock spots rather than putting the OT east. The alternate arrangement is only used for the crossover Sweeping Immolation strat.
-3. We use a fixed position system for Sweeping Immolation, as described by Hector at 14:38 in his video, rather than the crossover strat.
+The strats we follow are the same as the strat's in Hector's guide (below).
+The only difference from the video is that, per [DESU conventions](/conventions#markers), the #1 marker should be in the NE corner, but none of the strats rely on the marker position so this is not super important.
 
 {{ youtube(id="1_v6v2nmVJ0") }}
 
-These strats are also the same as used on [Elemental DC](https://tuufless.github.io/FFXIV-Elemental-Raid-Macros/6.0_endwalker/extreme_trials/rubicante/) with the exception of the Flamerake strat.
+These strats are also the same as used on [Elemental DC](https://tuufless.github.io/FFXIV-Elemental-Raid-Macros/6.0_endwalker/extreme_trials/rubicante/) with the exception of the Flamerake and Sweeping Immolation strats.
 
 ## Breakdown
 
-### Spread
+### Modified Spread
 
 ![](spread.png)
 
-We use [standard spread positions](/etiquette#positions).
+We use non-standard spread positions with the H2 and OT swapped from their usual spots.
+This allows both tanks to get full uptime during Sweeping Immolation.
+Even though the modified spread is for Sweeping Immolation specifically, it applies to all mechanics.
 
 ### Arch Inferno
 
@@ -68,22 +67,26 @@ For stacks, everyone spreads with the supports to the left of the DPS, relative 
 
 For the tethers in the adds phase and the Dualfire double cleave, the main tank takes the NW add/stands in the NW spot, while the OT takes the ET add/spot.
 
-### Flamerake
+### Flamerake: Stay on Colour
 
 ![](flamerake.png)
 
-During Flamerake, the mechanic can be resolved individually if everyone with flares stays within their colour marker. So, for instance, if the MT has a flare, they should take the flare in either the N (A marker) or NE (1 marker), whichever is safe.
+During Flamerake, the mechanic can be resolved individually if everyone with flares stays within their colour marker.
+So, for instance, if the MT has a flare, they should take the flare in either the N (A marker) or NE (1 marker), whichever is safe.
+The stack is always taken in the center, and the spread afterwards should be from original spread spots.
 
-### Sweeping Immolation
+### Sweeping Immolation: Crossover Strat
 
 ![](sweeping-immolation.png)
 
-When Sweeping Immolation has a spread, everyone should take a fixed position relative to the boss to take the spread.
-The melees will always be closer to the boss, with the main tank and ranged 1 on the boss's left side and the off-tank and ranged 2 on his right.
+To resolve Sweeping Immolation, everyone begins at their clock spot for the initial spread and line AoEs.
 
-When there is a stack, gather behind and to the left of the boss, at the `M1` spread position.
+Immediately afterwards, adjust CW halfway to the next waymark, out of the line AoEs.
+Then check if you are going to be in the boss's cleave arc.
+If so, cross to the safe slice directly opposite yours.
 
-We do not use the crossover strat.
+For spreads, melees and tanks take positions close to the boss, healers and ranged on the outside.
+For stacks, converge on the inner safe slice nearest you, in melee range.
 
 ### Flamespire Claw
 
@@ -97,5 +100,3 @@ The players with indicators 1 & 2 can head to their cleave markers as soon as th
 The players with indicators 7 & 8 should move in closer to the boss to take the first tethers.
 After each cleave, the player who baited that cleave should come in and grab the tether from the player on the same side as them.
 The player who previously had the tether can return to the rest of the group.
-
-
