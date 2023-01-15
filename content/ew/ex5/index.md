@@ -68,7 +68,7 @@ For stacks, everyone spreads with the supports to the left of the DPS, relative 
 
 ![](tanks.png)
 
-For the tethers in the adds phase and the Dualfire double cleave, the main tank takes the NW add/stands in the NW spot, while the OT takes the ET add/spot.
+For the tethers in the adds phase and the Dualfire double cleave, the main tank takes the NW add/stands in the NW spot, while the off-tank takes the NE add/spot.
 
 ### Flamerake: Stay on Colour
 
