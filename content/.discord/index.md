@@ -14,19 +14,15 @@ channels = ["welcome-info", "announcements", "rules", "server-map", "resources",
 
 [[extra.categories]]
 name = "party up"
-channels = ["party-finder", "events", "events-spoilers", "planning"]
+channels = ["party-finder", "events", "events-spoilers", "planning", "theory-tech-spoilers", "duties"]
 
 [[extra.categories]]
-name = "xiv endgame"
-channels = ["introductions", "general", "questions", "theory-tech-spoilers", "duties"]
+name = "community"
+channels = ["introductions", "general", "questions", "screenshots", "story-lore", "memes", "offtopic"]
 
 [[extra.categories]]
 name = "desu"
 channels = ["desu", "lb4-lounge", "conventions-voting"]
-
-[[extra.categories]]
-name = "non-endgame"
-channels = ["screenshots", "story-lore", "memes", "offtopic"]
 
 [[extra.categories]]
 name = "static formation"
