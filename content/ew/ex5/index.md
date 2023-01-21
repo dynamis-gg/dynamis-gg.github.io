@@ -103,3 +103,30 @@ The players with indicators 1 & 2 can head to their cleave markers as soon as th
 The players with indicators 7 & 8 should move in closer to the boss to take the first tethers.
 After each cleave, the player who baited that cleave should come in and grab the tether from the player on the same side as them.
 The player who previously had the tether can return to the rest of the group.
+
+## Variant Strats
+
+**Important:** When using variant strats, please change the macro header to clearly indicate that you are using a variant, to prevent multiple versions of the official macro from proliferating.
+
+### Sweeping Immolation: Boss-Relative Strat
+
+![](sweeping-variant.png)
+
+```
+/p ┏═RUBICANTE EX VARIANT: dynamis.gg/ew/ex5═┓
+/p ┏━━【Sweeping Immolation】━━┓
+/p     →    ↑     ↑    ←     ※ Spread colour pairs
+/p    MT  M1  M2  OT         T+M in, H+R out
+/p    R1   H1   H2  R2    ※ Stack at M1
+```
+
+This alternative strat sees players occupy positions fixed relative to the boss based on their position.
+Note that the first row of the macro denotes the inner semicircle around the boss,
+and the second row denotes the outer semicircle.
+
+In addition to the crossover strat above, the boss-relative strat is popular on PF, particularly among experienced players.
+DESU recommends the crossover strat, however, because it is quicker to learn and teach.
+
+*Note:* This strat is often referred to on PF as the "static" strat.
+This is a misnomer, as the positions are not at all static but actually relative to the boss.
+So we call this the "boss-relative" strat instead.
