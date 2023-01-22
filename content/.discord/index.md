@@ -14,7 +14,7 @@ channels = ["welcome-info", "announcements", "rules", "server-map", "resources",
 
 [[extra.categories]]
 name = "party up"
-channels = ["party-finder", "events", "events-spoilers", "planning", "theory-tech-spoilers", "duties"]
+channels = ["party-finder", "events", "events-with-spoilers", "planning", "theory-tech-spoilers", "duties"]
 
 [[extra.categories]]
 name = "community"
