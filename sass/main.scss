@@ -78,3 +78,18 @@ nav {
 nav h1 {
   margin-block-end: 0.5em;
 }
+
+.videoEmbed{
+  position:relative;
+  padding-bottom:45%;
+  max-width:80%;
+  margin: auto;
+}
+
+.videoFrame{
+  width:100%;
+  height:100%;
+  position:absolute;
+  left:0px;
+  top:0px;
+}
