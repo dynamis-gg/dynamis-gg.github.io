@@ -14,19 +14,19 @@ channels = ["welcome-info", "announcements", "rules", "server-map", "resources",
 
 [[extra.categories]]
 name = "party up"
-channels = ["party-finder", "events", "planning"]
+channels = ["party-finder", "events", "events-with-spoilers", "planning", "theory-tech-spoilers", "duties"]
 
 [[extra.categories]]
 name = "community"
-channels = ["introductions", "general", "ask-questions-here", "story-lore", "screenshots", "memes", "desu-meta", "lb4-lounge"]
+channels = ["introductions", "general", "questions", "screenshots", "story-lore", "memes", "offtopic"]
 
 [[extra.categories]]
-name = "strats & theory"
-channels = ["pf-culture", "macro-tech", "encounter-discussion", "conventions-voting"]
+name = "desu"
+channels = ["desu", "lb4-lounge", "conventions-voting"]
 
 [[extra.categories]]
 name = "static formation"
-channels = ["static-recruiting", "static-lfg", "static-recruiting-archive", "static-lfg-archive"]
+channels = ["static-recruiting", "static-lfg"]
 
 [[extra.categories]]
 name = "voice"
@@ -45,7 +45,7 @@ name = "open tickets"
 
 [[extra.categories]]
 name = "closed tickets"
-# 
+ 
 [extra.args]
 default_message_notifications = 1
 explicit_content_filter = 2

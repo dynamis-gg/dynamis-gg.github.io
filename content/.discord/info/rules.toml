@@ -37,7 +37,8 @@ description = """
 
       - **Major story details past the end of 2.0** (the first credits roll). This is *especially* true in <#${discord_text_channel.story-lore.id}>.
       - **Boss names** *except* as noted below. The common practice of referring to EX fights by boss name is discouraged.
-      - **The names of "Minstrels's Ballad" trials**, which spoil boss names, **and the first three Endwalker MSQ trials** (levels 83, 89, 90) which spoil the story.
+      - **The names of "Minstrels's Ballad" trials**, which spoil boss names,
+        **and Endwalker trials** (levels 83-90) which spoil the story. Acronyms are ok (e.g. "TMB:UB" for ||The Minstrel's Ballad: Ultima's Bane||).
       - **All details about the mechanics of a particular fight**, including mechanic names. This is true even for older fights, so that people who want to play old content blind can do so. General discussion of mechanics, not referring to any specific fight, is ok. 
 
       **Things that Don't Need Spoiler Tags**
@@ -60,6 +61,8 @@ description = """
       You can use \\|\\|spoiler markup\\|\\| to discuss spoilers, but it must be tagged with an appropriate warning. For instance, [HW] spoiler warns that the spoiler bar might spoil anything from Heavensward (including HW patches).
 
       Spoilers can be discussed openly in dedicated threads. For instance, in a thread about a specific fight, you can freely discuss that fight's mechanics. __Careful:__ The thread title and first message must not contain spoilers as they can be seen without opening the thread.
+
+      *All* spoilers are fair game in spoiler channels, including new patch spoilers.
 
       Images are equally subject to the spoiler policy. When you attach an image, you can mark it as a spoiler, but you can't mark an image as a spoiler when editing a message. __Careful:__ When posting in <#${discord_text_channel.party-finder.id}>, screenshots of PF postings may need to be marked as spoilers!
 
