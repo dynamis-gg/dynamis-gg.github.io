@@ -31,28 +31,20 @@ description = """
 [[messages]]
 title = "4. Spoiler policy"
 description = """
-      DESU is a welcoming community for folks at all levels of experience, so we ask that you be cautious not to spoil other players!
+      DESU intends to be a welcoming community for folks at all levels of experience, so we ask that you be cautious not to spoil other players! We are, however, conscious of how spoiler tags can get in the way of free and open discussion, and so we've updated our spoiler policy to assist with that.
 
-      **Things that Need Spoiler Tags**
+      **Party Up and Static Recruitment sections**
 
-      - **Major story details past the end of 2.0** (the first credits roll). This is *especially* true in <#${discord_text_channel.story-lore.id}>.
-      - **Boss names** *except* as noted below. The common practice of referring to EX fights by boss name is discouraged.
-      - **The names of "Minstrels's Ballad" trials**, which spoil boss names,
-        **and Endwalker trials** (levels 83-90) which spoil the story. Acronyms are ok (e.g. "TMB:UB" for ||The Minstrel's Ballad: Ultima's Bane||).
-      - **All details about the mechanics of a particular fight**, including mechanic names. This is true even for older fights, so that people who want to play old content blind can do so. General discussion of mechanics, not referring to any specific fight, is ok. 
+      - Spoiler tags should be used for 2 weeks following the release of new content, except for fight-specific discussion under that fight's thread in #duties.
+      - Spoiler tags are otherwise not required.
 
-      **Things that Don't Need Spoiler Tags**
+      **Community section channels**
 
-      - The story up to the end of 2.0 (the first credits roll).
-      - All ARR boss names **outside Coils of Bahamut**, and the Warring Triad boss names.
-      - Instance names except as noted above.
-      - "Genericized" mechanic names such as akh morn, exaflare, and limit cut. These refer to all instances of similar mechanics regardless of the actual mechanic names.
+      - MSQ spoilers should be clearly tagged in all channels except #spoilers (e.g., ShB spoiler ||Amaros are the coolest mounts||)
+      
+      Datamined content is still fully not permitted.
 
-      **New Patch Spoiler Rules**
-
-      - Any information about a patch that's made public before its release, such as in a Live Letter or the Patch Notes, is fine to discuss following normal spoiler rules.
-      - **All other details about a patch** must be marked behind spoiler tags until the next minor patch. This includes screenshots. A "minor patch" is a patch that's part of the normal release schedule, and doesn't include hotfixes, emergency balance patches, etc.
-      - Datamined info is **BANNED** because it gives an unfair headstart in glam endgame.
+      The overall intent is to allow for raid-related discussion without worry and without being too strict, while also preventing new and returning players (or players taking a break) from missing out on on the community and fun. If you have any doubts on whether something should be tagged, ask a moderator, or spoiler it out!
 """
 
 [[messages]]
