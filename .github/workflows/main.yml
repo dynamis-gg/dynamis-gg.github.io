@@ -12,9 +12,9 @@ jobs:
     if: github.ref != 'refs/heads/main'
     steps:
       - name: Checkout main
-        uses: actions/checkout@v3.0.0
+        uses: actions/checkout@v3.5.2
       - name: Build only 
-        uses: shalzz/zola-deploy-action@v0.16.1
+        uses: shalzz/zola-deploy-action@v0.17.2
         env:
           BUILD_ONLY: true
           BUILD_FLAGS: --drafts
@@ -27,9 +27,9 @@ jobs:
     if: github.ref == 'refs/heads/main'
     steps:
       - name: Checkout main
-        uses: actions/checkout@v3.0.0
+        uses: actions/checkout@v3.5.2
       - name: Build and deploy
-        uses: shalzz/zola-deploy-action@v0.16.1
+        uses: shalzz/zola-deploy-action@v0.17.2
         env:
           PAGES_BRANCH: gh-pages
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
