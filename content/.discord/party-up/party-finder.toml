@@ -1,9 +1,0 @@
-type = "text"
-topic = """
-    Form pickup groups here. Ping the roles matching your party! It's what they're for!
-
-    Postings should be focused on Dynamis DC, postings from other NA DCs may be permitted on a case by case basis.
-    Parties on Dynamis should follow DESU conventions; note specifically if not.
-
-    "!pf 8man <time> <description>" to schedule a party for later. See pins for full help.
-"""
