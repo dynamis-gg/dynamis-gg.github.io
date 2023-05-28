@@ -10,10 +10,6 @@ If you are interested in playing Extreme trials but don't know how to begin, thi
 
 This guide assumes you are tackling current (most recently released) trials, which are always the most difficult.
 Older trials are easier because of power creep.
-It also assumes that [DESU etiquette] is being followed.
-
-If you have any questions about Extreme trials (or this guide),
-please ask in the [DESU server]!
 
 ## Preparation
 
@@ -65,8 +61,7 @@ Raid Finder and Duty Finder are not used.
 If you queue for an Extreme trial on Raid Finder or Duty Finder, expect a long wait.
 If there are no parties currently forming for the trial you want to do, you can make your own.
 
-Check out our [PF glossary](pf-glossary) for help understanding PF postings,
-and join the [DESU server] to be able to notify other interested players when a party is forming.
+Check out our [PF glossary](pf-glossary) for help understanding PF postings.
 
 ### Assigning Positions
 
@@ -79,7 +74,7 @@ In light party stacks, two players (usually the healers) are marked with stack m
 In clock spreads, each player has an AoE targeted on them and need to spread out.
 They're called clock spreads because the players spread to positions on a circle around the boss, reminiscent of a clock.
 
-Pick-up groups following DESU etiquette lay out formations [in a fight macro or following a default position](/etiquette#positions).
+Pick-up groups using macros typically lay out formations [in a fight macro or following a default position](/etiquette#positions).
 The abbreviations used for positions are as follows:
 
 | Abbreviation | Meaning                                    |
@@ -291,8 +286,6 @@ Keeping the party alive is your first priority, however, so use GCD abilities as
 As you learn a fight and become more comfortable with your cohealer,
 you can reduce the number of GCD heals and focus them on damage.
 
-[DESU etiquette]: /etiquette
-[DESU server]: https://discord.gg/hVtSqdfFqX
 [boss positioning]: /conventions#tank-north
 [mitigation]: #damage
 [knockback resistance]: #kbr

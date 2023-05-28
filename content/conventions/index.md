@@ -1,13 +1,13 @@
 +++
 title = "Mechanical Conventions"
-description = "DESU conventions for pickup groups"
+description = "conventions for pickup groups"
 
 weight = 2
 +++
 
 # Mechanical Conventions
 
-These conventions represent DESU's recommendations on how to handle various mechanical aspects of fights.
+These conventions represent my recommendations on how to handle various mechanical aspects of fights.
 They're intended for use both by blind pickup groups and in standardized strategies.
 
 These are not rules. They are recommendations. Guidelines. Don't treat them like rules.

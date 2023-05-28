@@ -1,5 +1,4 @@
-title = "DESU"
-description = "Dynamis Extreme, Savage, Ultimate"
+title = "Dynamis Raid Resources"
 
 # The URL the site will be built for
 base_url = "https://dynamis.gg/"
@@ -22,8 +21,3 @@ highlight_code = false
 [extra]
 images_default_size = 500
 images_sizes = [250, 500, 1000, 2000]
-
-[extra.tf_provider]
-source = "Lucky3028/discord"
-version = "1.1.2"
-

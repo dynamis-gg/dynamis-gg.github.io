@@ -4,12 +4,11 @@ description = "Frequently Asked Questions"
 
 weight = 3
 +++
-
 # FAQ
 
-## What are the DESU conventions?
+## What are conventions?
 
-They're our recommended defaults for pick-up group play.
+They're intended as my recommended defaults for pick-up group play.
 They aren't rules, and they aren't intended as the be-all-end-all.
 They're just a baseline set of expectations that groups on PF can opt into.
 
@@ -34,23 +33,11 @@ Conventions are one way that we can reduce inconsistency across PF listings on D
 
 ## How do I use conventions?
 
-Just put "DESU conventions" in your PF listing and have a link handy to explain to anyone who isn't familiar with them!
-
-Outside of parties in the DESU server, don't assume that parties follow DESU conventions.
-Though it's perfectly fine to join a party and suggest them.
+Right now, just do your best to follow them and hope others do the same. There
+might be more later.
 
 ## Macros are too small. I can't read them!
 
 You can adjust the text size for your chat windows by clicking the cog icon along the bottom bar and then switching to the "Log Details" tab.
 
-You can also enlarge the chat window temporarily to read a macro. If you're using a gamepad, you can select the chat window and press the jump button to enlarge it to the full screen temporarility. On keyboard, and mouse, you can drag the chat window from the corner to enlarge it, then put it back when you're done reading.
-
-## These are super cool, how do I meet more cool people who like these?
-
-## Or: These are mega-awesome-super-cool, how do I help out?
-
-## Or: One or more of your conventions sucks. I have Opinions. Where do I rant about them?
-
-Join the [DESU] Discord community! And spread the word!
-
-[DESU]: https://discord.gg/hVtSqdfFqX
+You may also need to enlarge your chat window so that macros don't get wrapped across lines, as this will ruin the visual layout. You can use the "Zoom Log Window" button/keybind in order to do this temporarily, which can be very helpful.

@@ -38,7 +38,7 @@ Tvnariea Reksane@Seraph.*
 ## Resources
 
 The strats we follow are the same as the strat's in Hector's guide (below).
-The only difference from the video is that, per [DESU conventions](/conventions#markers), the #1 marker should be in the NE corner, but none of the strats rely on the marker position so this is not super important.
+The only difference from the video is that, per [conventions](/conventions#markers), the #1 marker should be in the NE corner, but none of the strats rely on the marker position so this is not super important.
 
 {{ youtube(id="1_v6v2nmVJ0") }}
 
