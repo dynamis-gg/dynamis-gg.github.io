@@ -1,7 +1,4 @@
 /public
 /static/processed_images
 *~
-secrets.tfvars
-terraform.tfstate*
-.terraform*
-/deploy
+.*.sw*
